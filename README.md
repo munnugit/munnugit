@@ -1,20 +1,16 @@
 <h1 align="center">Hi 👋, I'm Munnu Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munnugit&label=Profile%20views&color=0e75b6&style=flat" alt="munnugit" /> </p>
 
-- 🌱 I’m currently learning **Full-Stack**
+- 🌱 I’m currently learning **Full-Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://munnukumar-portfolio.netlify.app/](https://munnukumar-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://skillsstacker.blogspot.com/](https://skillsstacker.blogspot.com/)
-
 - 📫 How to reach me **munnukumar638@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1FrIRa5itRoh8-GY3nPdHpQxt4d8ncCrS28dEX-AFF2c/edit?usp=sharing](https://docs.google.com/document/d/1FrIRa5itRoh8-GY3nPdHpQxt4d8ncCrS28dEX-AFF2c/edit?usp=sharing)
-
-- ⚡ Fun fact **Learning New Skills**
+- ⚡ Fun fact **Learning New Skills & like To be fanny 😇**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
